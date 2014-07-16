@@ -16,4 +16,5 @@ doubanspiders
 2. 执行scrapy crawl movie (暂时只写了豆瓣电影爬虫)
 
 ###在线演示
-[看豆瓣](http://kandou.phpor.me)
+1. [看豆瓣](http://kandou.phpor.me)
+2. [网站代码](https://github.com/laomayi/kandouban)
